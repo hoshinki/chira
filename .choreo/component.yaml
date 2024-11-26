@@ -4,4 +4,4 @@ endpoints:
 - name: kakak
   service:
      port: 55555
-  type: WS
+  type: TCP
